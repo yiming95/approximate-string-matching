@@ -1,5 +1,6 @@
-# Distributed-Scrabble-Game
-A java application that implements a distributed scrabble game.
+# Approximate string matching 
+A python project that implements 6 approximate string matching algorithms and then to analyse the dataset.
+
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -38,7 +39,10 @@ The program imports three packages from Internet:
 
 ## Results
 
+<img width="422" alt="screen shot 2019-03-08 at 3 51 41 pm" src="https://user-images.githubusercontent.com/40975373/54008501-f31d0a80-41ba-11e9-8889-fe118086dc89.png">
 
+
+<img width="394" alt="screen shot 2019-03-08 at 3 51 23 pm" src="https://user-images.githubusercontent.com/40975373/54008503-f44e3780-41ba-11e9-8212-e8ae04d27c1d.png">
 
 ## Authors
 
