@@ -19,7 +19,8 @@ The program implements 6 approximate string matching methods:
 
 and then evaluate them to generate precision, recall.
 
-The dataset files that support it to generate results are： dict.txt, wiki_misspell.txt and wiki-correct.txt. After running the program, it will generate six new files contains predicted words for each method. The precision and recall are shown in the terminal.
+The dataset files that support it to generate results are： dict.txt, wiki_misspell.txt and wiki-correct.txt. 
+After running the program, it will generate six new files contains predicted words for each method. The precision and recall are shown in the terminal.
 
 Wikipedia contributors (n.d.) Wikipedia:Lists of common misspellings. In Wikipedia: The
 Free Encyclopedia, https://en.wikipedia.org/w/index.php?title=Wikipedia: Lists_of_common_misspellings&oldid=813410985
